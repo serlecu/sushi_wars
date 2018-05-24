@@ -22,3 +22,32 @@
 /Users/alumno/Desktop/SUSHI WAR PROYECT/Temp/bin/Debug/Assembly-CSharp.dll
 /Users/alumno/Desktop/SUSHI WAR PROYECT/obj/Debug/Assembly-CSharp.dll
 /Users/alumno/Desktop/SUSHI WAR PROYECT/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/obj/Debug/Assembly-CSharp.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/UnityEngine.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/UnityEditor.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/nunit.framework.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/UnityEngine.Advertisements.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/Unity.Cecil.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/Unity.DataContract.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/alumno/Desktop/POLIUNITY/SUSHIWARPROJECT/sushi_wars/Temp/bin/Debug/Assembly-CSharp.dll
