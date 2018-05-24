@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ESCENAS/PANTALLA INICIO.unity
+  isLoaded: 1
+  isActive: 1
