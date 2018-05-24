@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c0e4e1d104aca4e9bb10efc59d07398e
+timeCreated: 1527176931
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Shree Devanagari 714
+  fontNames:
+  - Shree Devanagari 714
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
