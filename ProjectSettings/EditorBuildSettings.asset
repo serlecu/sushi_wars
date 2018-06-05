@@ -11,8 +11,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/ESCENAS/PANTALLA 2.unity
     guid: 3679ef000a1ee4b9a950e322f8bf3218
-  - enabled: 1
-    path: Assets/ESCENAS/PLAYMODE.unity
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/ded8073bf89d5418b9934610d7b2b148
     guid: ded8073bf89d5418b9934610d7b2b148
   - enabled: 1
     path: Assets/ESCENAS/INSTRUCTIONS.unity
