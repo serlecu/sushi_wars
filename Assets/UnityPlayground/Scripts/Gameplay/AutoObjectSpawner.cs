@@ -37,6 +37,8 @@ public class AutoObjectSpawner : MonoBehaviour
 			// Generate the new object
 			GameObject newObject = Instantiate<GameObject>(prefabToSpawn);
 			newObject.transform.position = new Vector2(this.transform.position.x,this.transform.position.y);
+			newObject.transform.SetParent (GameObject.FindGameObjectWithTag("Canvas").transform, false);
+
 			//APARECEN EN UN RANGO ALEATORIO
 			//newObject.transform.position = new Vector2(randomX + this.transform.position.x, randomY + this.transform.position.y);
 		

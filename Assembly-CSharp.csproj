@@ -54,6 +54,7 @@
      <Compile Include="Assets\SCRIPTS\MENUINSTRUCTIONS.cs" />
      <Compile Include="Assets\SCRIPTS\MENUPRINCIPAL.cs" />
      <Compile Include="Assets\SCRIPTS\parent.cs" />
+     <Compile Include="Assets\SCRIPTS\swipe.cs" />
      <Compile Include="Assets\UnityPlayground\_DONT_USE\Scripts\BaseClasses\Action.cs" />
      <Compile Include="Assets\UnityPlayground\_DONT_USE\Scripts\BaseClasses\ConditionBase.cs" />
      <Compile Include="Assets\UnityPlayground\_DONT_USE\Scripts\BaseClasses\Physics2DObject.cs" />
