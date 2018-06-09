@@ -8,16 +8,11 @@ public class MENUINSTRUCTIONS : MonoBehaviour {
 
 	public void Play(){
 		SceneManager.LoadScene ("PLAYMODE");
-
 	}
 
 
 	public void Back(){
-		SceneManager.LoadScene ("PANTALLA2");
-
-
-
-
+		SceneManager.LoadScene ("PANTALLA 2");
 	}
 
 
