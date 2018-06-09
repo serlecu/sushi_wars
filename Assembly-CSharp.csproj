@@ -54,16 +54,8 @@
      <Compile Include="Assets\SCRIPTS\MENUINSTRUCTIONS.cs" />
      <Compile Include="Assets\SCRIPTS\MENUPRINCIPAL.cs" />
      <Compile Include="Assets\SCRIPTS\parent.cs" />
+     <Compile Include="Assets\SCRIPTS\playerMovement.cs" />
      <Compile Include="Assets\SCRIPTS\swipe.cs" />
-     <Compile Include="Assets\UnityPlayground\_DONT_USE\Scripts\BaseClasses\Action.cs" />
-     <Compile Include="Assets\UnityPlayground\_DONT_USE\Scripts\BaseClasses\ConditionBase.cs" />
-     <Compile Include="Assets\UnityPlayground\_DONT_USE\Scripts\BaseClasses\Physics2DObject.cs" />
-     <Compile Include="Assets\UnityPlayground\_DONT_USE\Scripts\UserInterface\BalloonScript.cs" />
-     <Compile Include="Assets\UnityPlayground\_DONT_USE\Scripts\UserInterface\DialogueSystem.cs" />
-     <Compile Include="Assets\UnityPlayground\_DONT_USE\Scripts\UserInterface\UIItemScript.cs" />
-     <Compile Include="Assets\UnityPlayground\_DONT_USE\Scripts\UserInterface\UIScript.cs" />
-     <Compile Include="Assets\UnityPlayground\_DONT_USE\Scripts\Utilities\Enums.cs" />
-     <Compile Include="Assets\UnityPlayground\_DONT_USE\Scripts\Utilities\Utils.cs" />
      <Compile Include="Assets\UnityPlayground\Scripts\Attributes\BulletAttribute.cs" />
      <Compile Include="Assets\UnityPlayground\Scripts\Attributes\CollectableAttribute.cs" />
      <Compile Include="Assets\UnityPlayground\Scripts\Attributes\DestroyForPointsAttribute.cs" />
