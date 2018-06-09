@@ -20,6 +20,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4372827822464080}
   - component: {fileID: 212639715573553616}
+  - component: {fileID: 114573274414813130}
   - component: {fileID: 50178310504324366}
   - component: {fileID: 114069459393943514}
   - component: {fileID: 58637668434357754}
@@ -154,6 +155,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: 0
   deathEffect: {fileID: 0}
+--- !u!114 &114573274414813130
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1103734728915268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7bbc78794bcd491cab37de3300d838b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BoundaryHolder: {fileID: 0}
 --- !u!212 &212639715573553616
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -167,6 +180,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 4294967295
   m_Materials:
   - {fileID: 2100000, guid: 634a97baf47c9471eaa7484459b6d7c8, type: 2}
   m_StaticBatchInfo:
