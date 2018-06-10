@@ -20,17 +20,16 @@ GameObject:
   m_Component:
   - component: {fileID: 4372827822464080}
   - component: {fileID: 212639715573553616}
-  - component: {fileID: 114573274414813130}
   - component: {fileID: 50178310504324366}
-  - component: {fileID: 114069459393943514}
   - component: {fileID: 58637668434357754}
-  - component: {fileID: 114158800333734622}
-  - component: {fileID: 114136881256340996}
-  - component: {fileID: 114544327349659906}
   - component: {fileID: 114543716167226618}
+  - component: {fileID: 114069459393943514}
+  - component: {fileID: 114972144062607412}
+  - component: {fileID: 114158800333734622}
+  - component: {fileID: 114067468906715082}
   m_Layer: 0
   m_Name: SUSHI SPRITE
-  m_TagString: Untagged
+  m_TagString: Bullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -80,9 +79,22 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 1
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.9}
+  m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 7.8
+--- !u!114 &114067468906715082
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1103734728915268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb7f86633aef54b0dbb99c07a0a64442, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  resourceType: Puntos
+  amount: 1
 --- !u!114 &114069459393943514
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -97,35 +109,13 @@ MonoBehaviour:
   rigidbody2D: {fileID: 0}
   direction: {x: 0, y: -40}
   relativeToRotation: 0
---- !u!114 &114136881256340996
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1103734728915268}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bdab9334f9a2a4efe8c019b5d37595cd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  actions:
-  - {fileID: 114544327349659906}
-  useCustomActions: 0
-  customActions:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-  happenOnlyOnce: 0
-  filterByTag: 1
-  filterTag: CintaFin
 --- !u!114 &114158800333734622
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1103734728915268}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5f07292f21b294dbf867e975a3e5a845, type: 3}
   m_Name: 
@@ -142,31 +132,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a50d183ffd97642328c58591dd5379e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &114544327349659906
+--- !u!114 &114972144062607412
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1103734728915268}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: be840ffee03ed4abe9b3dc9b48f9cae7, type: 3}
+  m_Script: {fileID: 11500000, guid: 0db1574b7056444cb97c4efdacca9297, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: 0
-  deathEffect: {fileID: 0}
---- !u!114 &114573274414813130
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1103734728915268}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f7bbc78794bcd491cab37de3300d838b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  BoundaryHolder: {fileID: 0}
 --- !u!212 &212639715573553616
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -180,7 +156,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-  m_RenderingLayerMask: 4294967295
   m_Materials:
   - {fileID: 2100000, guid: 634a97baf47c9471eaa7484459b6d7c8, type: 2}
   m_StaticBatchInfo:

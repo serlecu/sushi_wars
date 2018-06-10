@@ -22,6 +22,7 @@ GameObject:
   - component: {fileID: 222388808652177494}
   - component: {fileID: 114350514964625628}
   - component: {fileID: 114486383794200744}
+  - component: {fileID: 114691761438863696}
   - component: {fileID: 50639605653221458}
   - component: {fileID: 58314192474309602}
   - component: {fileID: 114871252232910430}
@@ -109,6 +110,18 @@ MonoBehaviour:
   rigidbody2D: {fileID: 0}
   direction: {x: 0, y: 1}
   relativeToRotation: 1
+--- !u!114 &114691761438863696
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1621756571607502}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 477061764ec9846b9acdb79a23702b06, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BoundaryHolder1: {fileID: 0}
 --- !u!114 &114804941016564886
 MonoBehaviour:
   m_ObjectHideFlags: 1

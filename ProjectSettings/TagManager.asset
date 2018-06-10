@@ -8,6 +8,9 @@ TagManager:
   - Bullet
   - CintaFin
   - Canvas
+  - limit_normal
+  - limit_L
+  - limit_R
   layers:
   - Default
   - TransparentFX
