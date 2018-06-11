@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{782A6364-1831-29E7-8E2A-445D1E026DF7}</ProjectGuid>
+    <ProjectGuid>{44C6F3CC-C5DB-AFC9-DD66-374516D3FAE2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -59,11 +59,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\SCRIPTS\cintanimation.cs" />
     <Compile Include="Assets\SCRIPTS\MENUINSTRUCTIONS.cs" />
     <Compile Include="Assets\SCRIPTS\MENUPRINCIPAL.cs" />
-    <Compile Include="Assets\SCRIPTS\Palillos.cs" />
+    <Compile Include="Assets\SCRIPTS\MOVIMIENTO CINTA.cs" />
+    <Compile Include="Assets\SCRIPTS\Movplayer1.cs" />
     <Compile Include="Assets\SCRIPTS\parent.cs" />
     <Compile Include="Assets\SCRIPTS\swipe.cs" />
+    <Compile Include="Assets\SCRIPTS\touch.cs" />
+    <Compile Include="Assets\touchrayo.cs" />
     <Compile Include="Assets\UnityPlayground\_DONT_USE\Scripts\BaseClasses\Action.cs" />
     <Compile Include="Assets\UnityPlayground\_DONT_USE\Scripts\BaseClasses\ConditionBase.cs" />
     <Compile Include="Assets\UnityPlayground\_DONT_USE\Scripts\BaseClasses\Physics2DObject.cs" />
@@ -104,11 +108,11 @@
     <Compile Include="Assets\UnityPlayground\Scripts\Movement\Push.cs" />
     <Compile Include="Assets\UnityPlayground\Scripts\Movement\Rotate.cs" />
     <Compile Include="Assets\UnityPlayground\Scripts\Movement\Wander.cs" />
-    <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/POLIMAC/sushi_wars/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/POLIMAC/sushi_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/POLIMAC/sushi_wars copia/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>/Users/POLIMAC/sushi_wars copia/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

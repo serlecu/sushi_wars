@@ -8,6 +8,7 @@ TagManager:
   - Bullet
   - CintaFin
   - Canvas
+  - Pickup
   layers:
   - Default
   - TransparentFX
@@ -50,4 +51,7 @@ TagManager:
     locked: 0
   - name: GAMEPLAY
     uniqueID: 2649193329
+    locked: 0
+  - name: POLILAYER
+    uniqueID: 1083944423
     locked: 0

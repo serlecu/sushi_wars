@@ -1,0 +1,1880 @@
+fileFormatVersion: 2
+guid: 25e376e2fa150497e955d02b122c812c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LINEAS CINTA para animacion_0
+    21300002: LINEAS CINTA para animacion_1
+    21300004: LINEAS CINTA para animacion_2
+    21300006: LINEAS CINTA para animacion_3
+    21300008: LINEAS CINTA para animacion_4
+    21300010: LINEAS CINTA para animacion_5
+    21300012: LINEAS CINTA para animacion_6
+    21300014: LINEAS CINTA para animacion_7
+    21300016: LINEAS CINTA para animacion_8
+    21300018: LINEAS CINTA para animacion_9
+    21300020: LINEAS CINTA para animacion_10
+    21300022: LINEAS CINTA para animacion_11
+    21300024: LINEAS CINTA para animacion_12
+    21300026: LINEAS CINTA para animacion_13
+    21300028: LINEAS CINTA para animacion_14
+    21300030: LINEAS CINTA para animacion_15
+    21300032: LINEAS CINTA para animacion_16
+    21300034: LINEAS CINTA para animacion_17
+    21300036: LINEAS CINTA para animacion_18
+    21300038: LINEAS CINTA para animacion_19
+    21300040: LINEAS CINTA para animacion_20
+    21300042: LINEAS CINTA para animacion_21
+    21300044: LINEAS CINTA para animacion_22
+    21300046: LINEAS CINTA para animacion_23
+    21300048: LINEAS CINTA para animacion_24
+    21300050: LINEAS CINTA para animacion_25
+    21300052: LINEAS CINTA para animacion_26
+    21300054: LINEAS CINTA para animacion_27
+    21300056: LINEAS CINTA para animacion_28
+    21300058: LINEAS CINTA para animacion_29
+    21300060: LINEAS CINTA para animacion_30
+    21300062: LINEAS CINTA para animacion_31
+    21300064: LINEAS CINTA para animacion_32
+    21300066: LINEAS CINTA para animacion_33
+    21300068: LINEAS CINTA para animacion_34
+    21300070: LINEAS CINTA para animacion_35
+    21300072: LINEAS CINTA para animacion_36
+    21300074: LINEAS CINTA para animacion_37
+    21300076: LINEAS CINTA para animacion_38
+    21300078: LINEAS CINTA para animacion_39
+    21300080: LINEAS CINTA para animacion_40
+    21300082: LINEAS CINTA para animacion_41
+    21300084: LINEAS CINTA para animacion_42
+    21300086: LINEAS CINTA para animacion_43
+    21300088: LINEAS CINTA para animacion_44
+    21300090: LINEAS CINTA para animacion_45
+    21300092: LINEAS CINTA para animacion_46
+    21300094: LINEAS CINTA para animacion_47
+    21300096: LINEAS CINTA para animacion_48
+    21300098: LINEAS CINTA para animacion_49
+    21300100: LINEAS CINTA para animacion_50
+    21300102: LINEAS CINTA para animacion_51
+    21300104: LINEAS CINTA para animacion_52
+    21300106: LINEAS CINTA para animacion_53
+    21300108: LINEAS CINTA para animacion_54
+    21300110: LINEAS CINTA para animacion_55
+    21300112: LINEAS CINTA para animacion_56
+    21300114: LINEAS CINTA para animacion_57
+    21300116: LINEAS CINTA para animacion_58
+    21300118: LINEAS CINTA para animacion_59
+    21300120: LINEAS CINTA para animacion_60
+    21300122: LINEAS CINTA para animacion_61
+    21300124: LINEAS CINTA para animacion_62
+    21300126: LINEAS CINTA para animacion_63
+    21300128: LINEAS CINTA para animacion_64
+    21300130: LINEAS CINTA para animacion_65
+    21300132: LINEAS CINTA para animacion_66
+    21300134: LINEAS CINTA para animacion_67
+    21300136: LINEAS CINTA para animacion_68
+    21300138: LINEAS CINTA para animacion_69
+    21300140: LINEAS CINTA para animacion_70
+    21300142: LINEAS CINTA para animacion_71
+    21300144: LINEAS CINTA para animacion_72
+    21300146: LINEAS CINTA para animacion_73
+    21300148: LINEAS CINTA para animacion_74
+    21300150: LINEAS CINTA para animacion_75
+    21300152: LINEAS CINTA para animacion_76
+    21300154: LINEAS CINTA para animacion_77
+    21300156: LINEAS CINTA para animacion_78
+    21300158: LINEAS CINTA para animacion_79
+    21300160: LINEAS CINTA para animacion_80
+    21300162: LINEAS CINTA para animacion_81
+    21300164: LINEAS CINTA para animacion_82
+    21300166: LINEAS CINTA para animacion_83
+    21300168: LINEAS CINTA para animacion_84
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 396
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b071e63c3c72421f8ac07da19dafd72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 429
+        width: 209
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bb739d4774d4469a4d6facb8df02ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 401
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7299aa81bdd140b9bd0fc166fc77bf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 432
+        width: 199
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92477ba7afa494d5d9083b6d3d3edb77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_4
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 409
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffab9d1b821147709d1f18d3b8df990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_5
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 444
+        width: 155
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9420e6a6a09f74b0a8f306f4a321886a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_6
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 418
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3a05b821d02408e82b3179620d7651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_7
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 450
+        width: 133
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7043e87960fcd46cfb018003a6fccc29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_8
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 422
+        width: 217
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1774544a7ca9460a93474cc6daf5371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_9
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 453
+        width: 123
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a317cda066376412cbd92f65d4744f69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 333
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd4855c33fc14cd38b0ef232864ce2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 364
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf7ccb47d7bf4509a62a4fcc0dabc23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_12
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 368
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a526e901f54404d92718cb2856be03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_13
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 336
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aea76850ad7b4581854c7e08ced7d9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_14
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 346
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a3a8a33f3db495cab2982beaa897ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_15
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 377
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c21675dca73f4ca7876253f23324764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_16
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 387
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257a5a206246b4ae090f72e7df5ffc2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_17
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 352
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9448c7c4618e84f2ba0f81fd5cdb05ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_18
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 389
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e23b3a264d042f08e4c37dba356e70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_19
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 357
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066956b6e74094979b353774720435bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 301
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bcf947aaffc4f9392534119f3f55c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 269
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba1b73408c2946c09c71aaa22ed8c03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_22
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 305
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f474ff82b29634210955c130f92db702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_23
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 273
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef338321db48443b87e532c9d020dee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_24
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 281
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a83572d862b4b6bb1c7fbaf990b5b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_25
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 313
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a371a66250b346b59c10bae2f5c4a6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_26
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 289
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac5b239389c0439484ef90045c1bf28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_27
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 320
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6f33ef8b01b47b29da7327454ad679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_28
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 326
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f896dc6105374647920c43a440cda96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_29
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 291
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09fe822241534eeabe6d2b6b7bbab69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_30
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 238
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0be3d873c51a44208d99fd49d312e59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 205
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c803b6f804094cb199e909129e79b81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_32
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 210
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23869e66126d14945a09769e0ce97c0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_33
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 241
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabdde7d7f8d84a7c92f0a7dafe0bb6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_34
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 250
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6573650a405942bbb6f30f2e46c7bf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_35
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 218
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8698e951d8cde4c66813124350e507cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_36
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 224
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2bc566731ca480eac9f0cc274cb8fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_37
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 256
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26f31c33741f40878fa3ff15decda5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_38
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 228
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f373a702481214a6088db473132bbfed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_39
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 259
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fb0ac48e1094ea390cfd51078b30c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_40
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 142
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10561f9084bb44cb49f365e10bc00ca8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_41
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 173
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddff00e5747794be0adfd78c92379c29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_42
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 177
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed2f4acfb54943ccabb2eb9cb38e7ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_43
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 145
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335e65206fe9a44259ee1852859c65ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_44
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 155
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5776d770593434c97b34f254f82d97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_45
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 186
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1930b2af02d24fddb54ec61c52e3f72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_46
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 193
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae92b8cf354b1450fa4b80e92a256735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_47
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 161
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73740bef18284cf3aae12c006ab61e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_48
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 195
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4315f11401cc403ab8c7dee9ef07f13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_49
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 163
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab56c370f05f48d6bd9be0f82fb4d8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_50
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 107
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac5a777a71a843d488ba7fbade808c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_51
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 75
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621a014afd7aa465fbc5749b620a2983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_52
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 114
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daa2337a46894c029224a4117c259bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_53
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 79
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a8e755add544513843ff505de60079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_54
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 90
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7968037ed1384e98b9e941a9541b9a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_55
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 122
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de70ceeab82c41ce93c896ec6d92dd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_56
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 98
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3c7c7347ae749478712b028f6fa931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_57
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 129
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54eafbb70409c4eb2be0515eb6513c31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_58
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 132
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e63ef24c2f2f43919205d7789f6c8e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_59
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 100
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1862cc2df8b4aa58f1b7fbd087da7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_60
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 44
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4c36346cabf40bfad3ecd363fada63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_61
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 11
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df53cabe64e5f411ea8e0ada3bcd1bb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_62
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 16
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbb48463ced6419ea397765ce9e2948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_63
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 47
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3384e0549e014432ba95b8a8ba9fb15d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_64
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 59
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb3539b29ed44cb6ae13efbe3f75222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_65
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 24
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8323b6b1e914e64983863096604ce1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_66
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 33
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19d0914750944e4c8f3b1a9b0c340eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_67
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 65
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01151c4bdabc3460ca314fd586855090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_68
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 37
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512b8fda4942441389a16f5b8b77c35c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_69
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 68
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab9994f2fd3741e6be77e44e750eda1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_70
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a20359190e34b39abd0b0ad1ef75a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_71
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 78
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2809585de264f3d961b8b87905699c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_72
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 74
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6890477afc7be46f7ac1edfba5410aba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_73
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 85
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baa547de1e6d4fae8d84c70af10395d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_74
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 81
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cca37042437a4845bcfd8b88c715456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_75
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b65f75970294c36b513bf38b9ab956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_76
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 0
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e9f66278a8d47bba74212f7ed8d4c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_77
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 0
+        width: 98
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da2576b18d8a48bd914197097603b9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_78
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468f1010093724f0594b7969972dec30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_79
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a0f621b4bd541ba90e86e696516f0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_80
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 0
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a63f62e426bc4b76a9178b894533fb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_81
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 4
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b807944cf3241f1a6160f1b1496a4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_82
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 0
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053796c12a6d94444b8e67c0c9ff7f67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_83
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 0
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6f41f48fa1040429fa183006bd108a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINEAS CINTA para animacion_84
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 0
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51574b5c90a1a4a859b13d59d66c91f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4ac030594f83042f6b4e3d95f0440900
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
