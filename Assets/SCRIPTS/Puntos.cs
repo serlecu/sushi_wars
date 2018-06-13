@@ -22,9 +22,9 @@ public class Puntos : MonoBehaviour {
 		NewPuntuacionL = OldPuntuacionL++;
 		contadorL.GetComponent<Text> ().text = (NewPuntuacionL.ToString ());
 
-		if (NewPuntuacionL == 8) {
+		if (NewPuntuacionL >= 8) {
 			OldPuntuacionL = 0;
-			SceneManager.LoadScene ("PANTALLA 2");
+			SceneManager.LoadScene ("L WIN");
 		}
 	
 	}
@@ -35,9 +35,9 @@ public class Puntos : MonoBehaviour {
 		NewPuntuacionR = OldPuntuacionR++;
 		contadorR.GetComponent<Text> ().text = (NewPuntuacionR.ToString ());
 
-		if (NewPuntuacionR == 8) {
+		if (NewPuntuacionR >= 8) {
 			OldPuntuacionR = 0;
-			SceneManager.LoadScene ("PANTALLA 2");
+			SceneManager.LoadScene ("R WIN");
 
 		}
 	}

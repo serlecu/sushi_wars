@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEditor;
 
 [CanEditMultipleObjects]
-[CustomEditor(typeof(BulletAttribute))]
+//[CustomEditor(typeof(BulletAttribute))]
 public class BulletAttrInspector : InspectorBase
 {
 	private string explanation = "When this object touches another that has the script DestroyForScore, the Player will get a point.";

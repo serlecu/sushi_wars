@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEditor;
 
 [CanEditMultipleObjects]
-[CustomEditor(typeof(HealthSystemAttribute))]
+//[CustomEditor(typeof(HealthSystemAttribute))]
 public class PlayerHealthInspector : InspectorBase
 {
 	private string explanation = "This scripts allows the Players or other objects to receive damage.";

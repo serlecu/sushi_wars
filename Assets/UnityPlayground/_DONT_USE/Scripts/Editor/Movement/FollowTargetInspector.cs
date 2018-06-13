@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEditor;
 
 [CanEditMultipleObjects]
-[CustomEditor(typeof(FollowTarget))]
+//[CustomEditor(typeof(FollowTarget))]
 public class FollowTargetInspector : InspectorBase
 {
 	private string explanation = "This gameObject will pursue a target constantly.";

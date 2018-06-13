@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEditor;
 
 [CanEditMultipleObjects]
-[CustomEditor(typeof(ResourceAttribute))]
+//OldPuntuacionL = 0;[CustomEditor(typeof(ResourceAttribute))]
 public class ResourceAttrInspector : InspectorBase
 {
 	private string explanation = "When the Player touches this object, they will collect the specified amount of this type of resource.";

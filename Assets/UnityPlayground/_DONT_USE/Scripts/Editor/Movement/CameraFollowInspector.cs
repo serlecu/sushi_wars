@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEditor;
 
 [CanEditMultipleObjects]
-[CustomEditor(typeof(CameraFollow))]
+//[CustomEditor(typeof(CameraFollow))]
 public class CameraFollowInspector : InspectorBase
 {
 	private string explanation = "This script makes the Camera follow a specific object (usually the Player).";
@@ -14,7 +14,7 @@ public class CameraFollowInspector : InspectorBase
 
 	private void OnEnable()
 	{
-		go = (target as CameraFollow).gameObject;
+//		go = (target as CameraFollow).gameObject;
 	}
 
 	public override void OnInspectorGUI()
@@ -22,22 +22,22 @@ public class CameraFollowInspector : InspectorBase
 		GUILayout.Space(10);
 		EditorGUILayout.HelpBox(explanation, MessageType.Info);
 
-		//search for a Camera component
-		Camera cam = go.GetComponent<Camera>();
-		if(cam == null)
-		{
-			//display a warning and a button to fix it
-			EditorGUILayout.HelpBox(requiresCamera, MessageType.Error);
-		}
-		else
-		{
-			//draw normal inspector
-			base.OnInspectorGUI();
-
-			if(!CheckIfAssigned("target", false))
-			{
-				EditorGUILayout.HelpBox(warning, MessageType.Warning);
-			}
-		}
+//		//search for a Camera component
+////		Camera cam = go.GetComponent<Camera>();
+////		if(cam == null)
+//		{
+//			//display a warning and a button to fix it
+//			EditorGUILayout.HelpBox(requiresCamera, MessageType.Error);
+//		}
+//		else
+//		{
+//			//draw normal inspector
+//			base.OnInspectorGUI();
+//
+//			if(!CheckIfAssigned("target", false))
+//			{
+//				EditorGUILayout.HelpBox(warning, MessageType.Warning);
+//			}
+		//}
 	}
 }

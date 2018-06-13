@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEditor;
 
 [CanEditMultipleObjects]
-[CustomEditor(typeof(Push))]
+//[CustomEditor(typeof(Push))]
 public class PushInspector : InspectorBase
 {
 	private string explanation = "The gameObject will move at the push of a button, as if a thruster or an invisible force was pushing it.";

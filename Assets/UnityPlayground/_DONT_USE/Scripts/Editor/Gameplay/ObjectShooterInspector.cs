@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEditor;
 
 [CanEditMultipleObjects]
-[CustomEditor(typeof(ObjectShooter))]
+//[CustomEditor(typeof(ObjectShooter))]
 public class ObjectShooterInspector : InspectorBase
 {
 	private string explanation = "Spawns an object at the press of a button and it applies a force to it in the direction chosen.";

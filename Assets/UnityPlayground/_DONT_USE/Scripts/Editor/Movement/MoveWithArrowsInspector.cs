@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEditor;
 
 [CanEditMultipleObjects]
-[CustomEditor(typeof(Move))]
+//[CustomEditor(typeof(Move))]
 public class MoveInspector : InspectorBase
 {
 	private string explanation = "The gameObject moves at the pressing of some keys. Choose between Arrows or WASD.";

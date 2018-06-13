@@ -17,3 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/ESCENAS/PLAYMODE.unity
     guid: 6fa9fc10ceeb0453f88859cfdb69efc1
+  - enabled: 1
+    path: Assets/ESCENAS/R WIN.unity
+    guid: 318401c997e39477db376a51a61072fd
+  - enabled: 1
+    path: Assets/ESCENAS/L WIN.unity
+    guid: 654bda0a6af7f4392a4a302505ed9d06

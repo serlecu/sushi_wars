@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEditor;
 
 [CanEditMultipleObjects]
-[CustomEditor(typeof(TimedSelfDestruct))]
+//[CustomEditor(typeof(TimedSelfDestruct))]
 public class TimedSelfDestructInspector : InspectorBase
 {
 	private string explanation = "This gameObject will self destruct after a set amount of time, useful for bullets so they don't accumulate.";
