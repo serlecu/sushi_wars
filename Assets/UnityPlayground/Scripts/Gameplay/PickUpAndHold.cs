@@ -46,7 +46,7 @@ public class PickUpAndHold : MonoBehaviour
 	public bool PickUp()
 	{
 		//Collect every Pickup around
-		GameObject[] pickups = GameObject.FindGameObjectsWithTag("Pickup");
+		GameObject[] pickups = GameObject.FindGameObjectsWithTag("Sushis");
 
 		// Find the closest
 		float dist = pickUpDistance;

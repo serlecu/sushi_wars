@@ -5,10 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
-  - Bullet
   - CintaFin
   - Canvas
   - Pickup
+  - ColliderDestroy
+  - Sushi
   layers:
   - Default
   - TransparentFX

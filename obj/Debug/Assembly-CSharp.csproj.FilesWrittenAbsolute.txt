@@ -80,3 +80,5 @@
 /Users/sergio/sushi_wars/Temp/bin/Debug/Unity.Cecil.Mdb.dll
 /Users/sergio/sushi_wars/Temp/bin/Debug/Assembly-CSharp.dll.mdb
 /Users/sergio/sushi_wars/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/sergio/sushi_wars/Temp/bin/Debug/OSCsharp.dll
+/Users/sergio/sushi_wars/Temp/bin/Debug/TUIOsharp.dll
