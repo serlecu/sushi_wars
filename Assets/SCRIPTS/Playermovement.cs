@@ -32,14 +32,14 @@ public class Playermovement : MonoBehaviour {
                 position.x += speed;
                 transform.position = position;
         }
-        if (Input.GetKey(KeyCode.UpArrow))
+        if (Input.GetKey(KeyCode.DownArrow))
             {
                 Vector2 position = transform.position;
                 position.y -= speed;
                 transform.position = position;
             }
 
-        if (Input.GetKey(KeyCode.DownArrow))
+        if (Input.GetKey(KeyCode.UpArrow))
             {
                 Vector2 position = transform.position;
                 position.y+= speed;

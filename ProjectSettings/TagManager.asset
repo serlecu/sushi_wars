@@ -9,6 +9,9 @@ TagManager:
   - CintaFin
   - Canvas
   - Pickup
+  - DRAG
+  - players
+  - separate
   layers:
   - Default
   - TransparentFX

@@ -28,7 +28,6 @@ GameObject:
   - component: {fileID: 114136881256340996}
   - component: {fileID: 114544327349659906}
   - component: {fileID: 114543716167226618}
-  - component: {fileID: 114705478933286396}
   - component: {fileID: 114527546852856290}
   m_Layer: 0
   m_Name: SUSHI SPRITE
@@ -120,7 +119,7 @@ MonoBehaviour:
       Culture=neutral, PublicKeyToken=null
   happenOnlyOnce: 0
   filterByTag: 1
-  filterTag: CintaFin
+  filterTag: players
 --- !u!114 &114158800333734622
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -183,18 +182,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: 0
   deathEffect: {fileID: 0}
---- !u!114 &114705478933286396
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1103734728915268}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbfd7dffb90f412eab210159cfff74f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 0.1
 --- !u!212 &212639715573553616
 SpriteRenderer:
   m_ObjectHideFlags: 1
